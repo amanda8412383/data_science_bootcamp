@@ -26,3 +26,5 @@ Dieses Repository enthält Code, Projekte und Notizen zu meinem Lernfortschritt 
 3. Gradientenabstieg mit TensorFlow  
 4. Klassifikation handgeschriebener Ziffern (MNIST) mit einem neuronalen Netzwerk  
 5. Vorhersage der Konvertierungsrate bei Hörbüchern mithilfe eines neuronalen Netzwerks
+
+### tree and random forest
