@@ -5,6 +5,12 @@ Dieses Repository enthält Code, Projekte und Notizen zu meinem Lernfortschritt 
 
 ## Inhalte
 
+### Entscheidungsbäume 
+1. Entscheidungsbäume, Zufallswald und Gradientenverstärker Baum Einleitung
+2. Preisoptimierungsprojekt ETL
+3. Preisoptimierung Modellierung
+4. Abstimmung Gradientenverstärkes Baums
+
 ### Lineare Regression
 - Einfaches lineares Regressionsmodell zur Vorhersage des GPA basierend auf SAT-Daten  
 - Modellanpassung und -validierung mit einem Datensatz über Automodelle
@@ -27,4 +33,4 @@ Dieses Repository enthält Code, Projekte und Notizen zu meinem Lernfortschritt 
 4. Klassifikation handgeschriebener Ziffern (MNIST) mit einem neuronalen Netzwerk  
 5. Vorhersage der Konvertierungsrate bei Hörbüchern mithilfe eines neuronalen Netzwerks
 
-### tree and random forest
+
