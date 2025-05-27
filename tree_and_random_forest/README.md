@@ -1,8 +1,8 @@
 
 
 ### Content:
-- etl notebook is descriptive plots for eploring data. 
-- modeling notebook is where models are used to find the optimal price.
+- etl notebook descriptive plots and statistics that are relevant for understanding how price and product characteristics drive sales. 
+- modeling notebook is where data are fitted to 3 models then simulate different price and product offering strategies. 
 - gradient boosting tree shows the tuning of gradient boosting tree regression
 - code along is the learning notes for tree methods
 
